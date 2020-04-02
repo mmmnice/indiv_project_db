@@ -1,0 +1,51 @@
+{
+    "quiz1":[
+        {
+            "question": "THe naswer to this question is 1?",
+            "type" : "multiple choice",
+            "choices": ["Raymond" , "AA", "BB"],
+            "answer" : "Raymond",
+            "reason": "Name???"
+        },
+        {
+            "question": "Short answer example write yes",
+            "type" : "short answer",
+            "choices": [],
+            "answer" : "yes",
+            "reason" : "why didn't you write yes"
+        },
+        {
+            "question" : "True false question write yes",
+            "type" : "true false",
+            "choices": ["true", "false"],
+            "answer" : "true",
+            "reason" : "it's true"
+
+        }
+
+    ],
+    "quiz2":[
+        {
+            "question": "THe naswer to this question is 1?",
+            "type" : "multiple choice",
+            "choices": ["Raymond" , "AA", "BB"],
+            "answer" : "Raymond",
+            "reason": "Name???"
+        },
+        {
+            "question": "Short answer example write yes",
+            "type" : "short answer",
+            "choices": [],
+            "answer" : "yes",
+            "reason" : "why didn't you write yes"
+        },
+        {
+            "question" : "True false question write yes",
+            "type" : "true false",
+            "choices": ["true", "false"],
+            "answer" : "true",
+            "reason" : "it's true"
+
+        }
+    ]
+}
