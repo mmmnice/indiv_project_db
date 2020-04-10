@@ -1,26 +1,33 @@
 {
     "quiz1":[
         {
-            "question": "THe naswer to this question is 1?",
+            "question": "What is the HTML element you can use to reference an external css file?",
             "type" : "multiple choice",
-            "choices": ["Raymond" , "AA", "BB"],
-            "answer" : "Raymond",
-            "reason": "Name???"
+            "choices": ["<link>" , "<style>", "<script>"],
+            "answer" : "<link>",
+            "reason": "The link tag is used to refer to a css file"
         },
         {
-            "question": "Short answer example write yes",
+            "question": "What is the syntax for defining a CSS selector for an element with class='demo'?",
             "type" : "short answer",
             "choices": [],
-            "answer" : "yes",
-            "reason" : "why didn't you write yes"
+            "answer" : ".demo",
+            "reason" : ".demo for classes, #demo for ids"
         },
         {
-            "question" : "True false question write yes",
+            "question" : "The correct CSS syntax to set all <h2> elements in a page is just h2, followed by the css formatting within a curly bracket",
             "type" : "true false",
             "choices": ["true", "false"],
             "answer" : "true",
-            "reason" : "it's true"
+            "reason" : "It's true. h2{background-color:red;} is an example"
 
+        },
+        {
+            "question" : "_____ is the tag for the largest heading",
+            "type" : "fill in the blank",
+            "choices" :[],
+            "answer" : "<h1>",
+            "reason" : "It's <h1>"
         }
 
     ],
