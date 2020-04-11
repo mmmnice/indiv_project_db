@@ -86,8 +86,8 @@
             "reason" : "It's the first one"
         },
         {
-            "question": "How can you add a comment in JavaScript",
-            "type" : "short answer",
+            "question": "You add a comment using ____ in JavaScript",
+            "type" : "fill in the blank",
             "choices": [],
             "answer" : "//",
             "reason" : "// is the correct answer"
@@ -111,7 +111,7 @@
             "type" : "true false",
             "choices": ["true", "false"],
             "answer" : "true",
-            "reason" : "Class selectors use a ."
+            "reason" : "This was true"
         },
         {
             "question": "Which HTML tag is used to define CSS styles within an HTML page?",
@@ -128,18 +128,18 @@
             "reason": "The answer is myFunction()"
         },
         {
-            "question": "Which HTML tag is used to insert numbered lists? do not add the greater than or less than characters.",
-            "type" : "short answer",
+            "question": "____ is the HTML tag is used to insert numbered lists. Do not add the greater than or less than characters.",
+            "type" : "fill in the blank",
             "choices": [],
             "answer" : "ol",
             "reason" : "ol is the correct answer"
         },
         {
-            "question" : "br is the tag to add spaces in HTML",
-            "type" : "true false",
-            "choices": ["true", "false"],
-            "answer" : "true",
-            "reason" : "it's true"
+            "question" : "___ is the tag to add spaces in HTML",
+            "type" : "fill in the blank",
+            "choices": [],
+            "answer" : "br",
+            "reason" : "it's br"
         }
 
 
@@ -147,26 +147,40 @@
     ],
     "quiz2":[
         {
-            "question": "THe naswer to this question is 1?",
+            "question": "What does i++ do",
             "type" : "multiple choice",
-            "choices": ["Raymond" , "AA", "BB"],
-            "answer" : "Raymond",
-            "reason": "Name???"
+            "choices": ["It increments the variable i in itself" , "It subtracts 1 from the variable i", "It adds 1 to the variable i","It does nothing"],
+            "answer" : "It adds 1 to the variable i",
+            "reason": "It's the third one."
         },
         {
-            "question": "Short answer example write yes",
-            "type" : "short answer",
+            "question": "What is a High Order function?",
+            "type" : "multiple choice",
+            "choices": ["Its input variables are specified in alphabetical order", "At least one of their input variables is a function", "It is defined using the arrow notation", "It is a function that does not manipulate its internal state."],
+            "answer" : "At least one of their input variables is a function",
+            "reason" : "It's the second one"
+        },
+        {
+            "question" : "Use ____ to import other modules",
+            "type" : "fill in the blank",
             "choices": [],
-            "answer" : "yes",
-            "reason" : "why didn't you write yes"
+            "answer" : "import",
+            "reason" : "you can use import"
+
         },
         {
-            "question" : "True false question write yes",
+            "question" : "Python is a high level programming language",
             "type" : "true false",
             "choices": ["true", "false"],
             "answer" : "true",
-            "reason" : "it's true"
-
+            "reason" : "This was true"
+        },
+        {
+            "question": "what word do you use to make a for loop?",
+            "type" : "short answer",
+            "choices": [],
+            "answer" : "for",
+            "reason" : "You use for for a for loop"
         }
     ]
 }
