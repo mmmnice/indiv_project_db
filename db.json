@@ -27,7 +27,7 @@
             "type" : "fill in the blank",
             "choices" :[],
             "answer" : "<h1>",
-            "reason" : "It's <h1>"
+            "reason" : "It's h1"
         },
         {
             "question" : "What is the logo for python?",
@@ -72,7 +72,7 @@
             "reason" : "onsubmit is the correct answer"
         },
         {
-            "question" : "What is the logo for python?",
+            "question" : "What is the logo for Java?",
             "type" : "image",
             "choices": ["https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc","https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg","https://cdn.worldvectorlogo.com/logos/c-2975.svg"],
             "answer" : "https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg",
@@ -83,8 +83,65 @@
             "type" : "image",
             "choices": ["https://ih0.redbubble.net/image.174928237.6370/flat,750x,075,f-pad,750x1000,f8f8f8.jpg","https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg","https://johnson0helpdesk.files.wordpress.com/2014/10/ruby-53272f15396c2222cc0f9899fd13fb9f.png"],
             "answer" : "https://johnson0helpdesk.files.wordpress.com/2014/10/ruby-53272f15396c2222cc0f9899fd13fb9f.png",
-            "reason" : "It's the third one"
+            "reason" : "It's the first one"
+        },
+        {
+            "question": "How can you add a comment in JavaScript",
+            "type" : "short answer",
+            "choices": [],
+            "answer" : "//",
+            "reason" : "// is the correct answer"
+        },
+        {
+            "question" : "The correct syntax for defining a CSS selector for classes is with a #",
+            "type" : "true false",
+            "choices": ["true", "false"],
+            "answer" : "false",
+            "reason" : "Class selectors use a ."
+        },
+        {
+            "question" : "const cannot be used to declare a variable",
+            "type" : "true false",
+            "choices": ["true", "false"],
+            "answer" : "false",
+            "reason" : "const can be used to declare a variable.  Just like let and var."
+        },
+        {
+            "question" : "ul is the tag to insert a bullet list in HTML",
+            "type" : "true false",
+            "choices": ["true", "false"],
+            "answer" : "true",
+            "reason" : "Class selectors use a ."
+        },
+        {
+            "question": "Which HTML tag is used to define CSS styles within an HTML page?",
+            "type" : "short answer",
+            "choices": [],
+            "answer" : "style",
+            "reason" : "style is the correct answer"
+        },
+        {
+            "question": "What is the syntax to invoke a function named 'myFunction' in JavaScript?",
+            "type" : "multiple choice",
+            "choices": ["myFunction.invoke()" , "myFunction", "function.call(myFunction)","myFunction()"],
+            "answer" : "myFunction()",
+            "reason": "The answer is myFunction()"
+        },
+        {
+            "question": "Which HTML tag is used to insert numbered lists? do not add the greater than or less than characters.",
+            "type" : "short answer",
+            "choices": [],
+            "answer" : "ol",
+            "reason" : "ol is the correct answer"
+        },
+        {
+            "question" : "br is the tag to add spaces in HTML",
+            "type" : "true false",
+            "choices": ["true", "false"],
+            "answer" : "true",
+            "reason" : "it's true"
         }
+
 
 
     ],
