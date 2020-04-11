@@ -55,10 +55,10 @@
             "type" : "multiple choice",
             "choices" : ["var colors = 'red' , 'green', 'blue'", "var colors = ['red', 'green', 'blue']", "var colors = (1:'red' , 2:'green', 3:'blue')", "var colors[] = new Array()"],
             "answer" : "Cascading Style Sheets",
-            "reason" : "CSS is short for cascading style sheets"
+            "reason" : "It's the first one, and it's similar to java"
         },
         {
-            "question" : "The correct syntax for referencing to an external script called 'cus1172_script.js' within your HTML page is <script src= = 'cus_1172_script.js'>",
+            "question" : "The correct syntax for referencing to an external script called 'cus1172_script.js' within your HTML page is script src= 'cus_1172_script.js' within the tag",
             "type" : "true false",
             "choices": ["true", "false"],
             "answer" : "true",
