@@ -54,8 +54,8 @@
             "question" : "From the choices below, which is a correct way syntax to define  a JavaScript array?",
             "type" : "multiple choice",
             "choices" : ["var colors = 'red' , 'green', 'blue'", "var colors = ['red', 'green', 'blue']", "var colors = (1:'red' , 2:'green', 3:'blue')", "var colors[] = new Array()"],
-            "answer" : "Cascading Style Sheets",
-            "reason" : "It's the first one, and it's similar to java"
+            "answer" : "var colors = ['red', 'green', 'blue']",
+            "reason" : "It's the second one"
         },
         {
             "question" : "The correct syntax for referencing to an external script called 'cus1172_script.js' within your HTML page is script src= 'cus_1172_script.js' within the tag",
@@ -144,43 +144,5 @@
 
 
 
-    ],
-    "quiz2":[
-        {
-            "question": "What does i++ do",
-            "type" : "multiple choice",
-            "choices": ["It increments the variable i in itself" , "It subtracts 1 from the variable i", "It adds 1 to the variable i","It does nothing"],
-            "answer" : "It adds 1 to the variable i",
-            "reason": "It's the third one."
-        },
-        {
-            "question": "What is a High Order function?",
-            "type" : "multiple choice",
-            "choices": ["Its input variables are specified in alphabetical order", "At least one of their input variables is a function", "It is defined using the arrow notation", "It is a function that does not manipulate its internal state."],
-            "answer" : "At least one of their input variables is a function",
-            "reason" : "It's the second one"
-        },
-        {
-            "question" : "Use ____ to import other modules",
-            "type" : "fill in the blank",
-            "choices": [],
-            "answer" : "import",
-            "reason" : "you can use import"
-
-        },
-        {
-            "question" : "Python is a high level programming language",
-            "type" : "true false",
-            "choices": ["true", "false"],
-            "answer" : "true",
-            "reason" : "This was true"
-        },
-        {
-            "question": "what word do you use to make a for loop?",
-            "type" : "short answer",
-            "choices": [],
-            "answer" : "for",
-            "reason" : "You use for for a for loop"
-        }
     ]
 }
