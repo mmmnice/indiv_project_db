@@ -34,8 +34,58 @@
             "type" : "image",
             "choices": ["https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc","https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg","https://cdn.worldvectorlogo.com/logos/c-2975.svg"],
             "answer" : "https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc",
-            "reason" : "It's all of them lol"
+            "reason" : "It's the first one"
+        },
+        {
+            "question" : "Handlebars is a javascript library that:",
+            "type" : "multiple choice",
+            "choices" : ["Serves as a minimal template engine for front end applications", "Implements the model view pattern routing in single page applications", "Provides functionality for accessing databases remotely", "Provides functionality issuing asynchronous network request from within the browser"],
+            "answer" : "Serves as a minimal template engine for front end applications",
+            "reason" : "Handlebars is templates for the front end"
+        },
+        {
+            "question" : "What does CSS stand for?",
+            "type" : "multiple choice",
+            "choices" : ["Colorful Style Sheets", "Computer Style Sheets", "Creative Style Sheets", "Cascading Style Sheets"],
+            "answer" : "Cascading Style Sheets",
+            "reason" : "CSS is short for cascading style sheets"
+        },
+        {
+            "question" : "From the choices below, which is a correct way syntax to define  a JavaScript array?",
+            "type" : "multiple choice",
+            "choices" : ["var colors = 'red' , 'green', 'blue'", "var colors = ['red', 'green', 'blue']", "var colors = (1:'red' , 2:'green', 3:'blue')", "var colors[] = new Array()"],
+            "answer" : "Cascading Style Sheets",
+            "reason" : "CSS is short for cascading style sheets"
+        },
+        {
+            "question" : "The correct syntax for referencing to an external script called 'cus1172_script.js' within your HTML page is <script src= = 'cus_1172_script.js'>",
+            "type" : "true false",
+            "choices": ["true", "false"],
+            "answer" : "true",
+            "reason" : "It's true"
+        },
+        {
+            "question": "Which event-attribute is triggered by the browser when the user clicks the submit button of an HTML form?",
+            "type" : "short answer",
+            "choices": [],
+            "answer" : "onsubmit",
+            "reason" : "onsubmit is the correct answer"
+        },
+        {
+            "question" : "What is the logo for python?",
+            "type" : "image",
+            "choices": ["https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc","https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg","https://cdn.worldvectorlogo.com/logos/c-2975.svg"],
+            "answer" : "https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg",
+            "reason" : "It's the second one"
+        },
+        {
+            "question" : "What is the logo for Bootstrap?",
+            "type" : "image",
+            "choices": ["https://ih0.redbubble.net/image.174928237.6370/flat,750x,075,f-pad,750x1000,f8f8f8.jpg","https://sdtimes.com/wp-content/uploads/2019/03/jW4dnFtA_400x400.jpg","https://johnson0helpdesk.files.wordpress.com/2014/10/ruby-53272f15396c2222cc0f9899fd13fb9f.png"],
+            "answer" : "https://johnson0helpdesk.files.wordpress.com/2014/10/ruby-53272f15396c2222cc0f9899fd13fb9f.png",
+            "reason" : "It's the third one"
         }
+
 
     ],
     "quiz2":[
